@@ -1,7 +1,3 @@
-// well code is not working properly
-// the only excuse is that i thought im a tough guy and 
-// started to work on code on monday 8 hours before code review
-// only thing that i can say this was good life lesson for me 
 
 class MyPromise {
     constructor(executor) {
